@@ -1,1 +1,1 @@
-# ruby
+# ruby on rails course
